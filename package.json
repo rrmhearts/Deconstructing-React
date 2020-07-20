@@ -1,0 +1,16 @@
+{
+  "name": "deconstructing-react",
+  "version": "1.0.0",
+  "description": "A \"poor man's React\" based on Tejas implementation at https://www.youtube.com/watch?v=f2mMOiCSj5c",
+  "main": "app.js",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
