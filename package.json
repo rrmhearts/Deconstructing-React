@@ -4,7 +4,7 @@
   "description": "A \"poor man's React\" based on Tejas implementation at https://www.youtube.com/watch?v=f2mMOiCSj5c",
   "main": "app.js",
   "dependencies": {
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "typescript": "^3.9.7"
   },
   "devDependencies": {},
